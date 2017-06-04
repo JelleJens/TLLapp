@@ -14,6 +14,7 @@
 		A45BAA021EE474D7006729B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A45BAA001EE474D7006729B5 /* LaunchScreen.storyboard */; };
 		A45BAA0D1EE474D7006729B5 /* TLLappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45BAA0C1EE474D7006729B5 /* TLLappTests.swift */; };
 		A45BAA181EE474D7006729B5 /* TLLappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45BAA171EE474D7006729B5 /* TLLappUITests.swift */; };
+		A45BAA261EE483F2006729B5 /* leden.csv in Resources */ = {isa = PBXBuildFile; fileRef = A45BAA251EE483F2006729B5 /* leden.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A45BAA131EE474D7006729B5 /* TLLappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TLLappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A45BAA171EE474D7006729B5 /* TLLappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLLappUITests.swift; sourceTree = "<group>"; };
 		A45BAA191EE474D7006729B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A45BAA251EE483F2006729B5 /* leden.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = leden.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				A45BA9F91EE474D7006729B5 /* ViewController.swift */,
 				A45BA9FB1EE474D7006729B5 /* Main.storyboard */,
 				A45BA9FE1EE474D7006729B5 /* Assets.xcassets */,
+				A45BAA251EE483F2006729B5 /* leden.csv */,
 				A45BAA001EE474D7006729B5 /* LaunchScreen.storyboard */,
 				A45BAA031EE474D7006729B5 /* Info.plist */,
 			);
@@ -235,6 +238,7 @@
 				A45BAA021EE474D7006729B5 /* LaunchScreen.storyboard in Resources */,
 				A45BA9FF1EE474D7006729B5 /* Assets.xcassets in Resources */,
 				A45BA9FD1EE474D7006729B5 /* Main.storyboard in Resources */,
+				A45BAA261EE483F2006729B5 /* leden.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

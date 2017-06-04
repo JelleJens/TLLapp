@@ -1,0 +1,8 @@
+id,identifier,species_id,height,weight,base_experience,order,is_default
+1,Jelle Zwart,1,25,Breukelen,Lichting 50,1,1
+2,Dirk de Boer,2,21,Breukelen,Lichting 50,2,1
+3,Alexander Stoelman,3,23,Breukelen,Lichting 50,3,1
+4,Rany Skaff,4,23,Breukelen,Lichting 50,5,1
+5,Matthieu Granini,5,26,Amsterdam,Lichting 49,6,1
+6,Niels Ploeg,6,25,Amsterdam,Lichting 49,7,1
+7,Jasper Kroon,7,25,Hong Kong,Lichting 49,10,1
